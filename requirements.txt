@@ -1,0 +1,11 @@
+discord.py==2.3.1
+discord-py-interactions==5.8.0
+asyncio==3.4.3
+random==0.0.1
+datetime==4.3
+requests==2.26.0
+json==2.0.9
+pyjokes==0.6.0
+wikipedia==1.4.0
+Pillow==8.2.0
+aiohttp==3.7.4.post0

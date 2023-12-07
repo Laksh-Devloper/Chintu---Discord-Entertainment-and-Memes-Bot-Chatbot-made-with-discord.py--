@@ -1,4 +1,5 @@
-**Discord Entertainment and Memes Bot\n**
+**Discord Entertainment and Memes Bot**
+**
 Welcome to the ultimate Discord bot designed to bring joy, laughter, and entertainment to your server! This open-source project is dedicated to providing a seamless and delightful experience for your community through a variety of entertainment features and a rich collection of memes.**
 
 Visit the Official Live Project Here - 

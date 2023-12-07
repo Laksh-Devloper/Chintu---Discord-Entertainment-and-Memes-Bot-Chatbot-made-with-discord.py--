@@ -1,11 +1,10 @@
-**Discord Entertainment and Memes Bot**
-**
-Welcome to the ultimate Discord bot designed to bring joy, laughter, and entertainment to your server! This open-source project is dedicated to providing a seamless and delightful experience for your community through a variety of entertainment features and a rich collection of memes.**
 
-Visit the Official Live Project Here - 
+Welcome to the ultimate Discord bot designed to bring joy, laughter, and entertainment to your server! This open-source project is dedicated to providing a seamless and delightful experience for your community through a variety of entertainment features and a rich collection of memes.**_
+
+**Visit the Official Live Project Here - **
 https://replit.com/@LakshPro22/New-Chintu#main.py
 
-Join My WorkSpace - 
+**Join My WorkSpace - **
 https://discord.gg/MWFH2N9FR8
 
 

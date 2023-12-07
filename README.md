@@ -8,6 +8,8 @@ https://replit.com/@LakshPro22/New-Chintu#main.py
 https://discord.gg/MWFH2N9FR8
 
 ![image](https://github.com/Laksh-Devloper/Chintu---Discord-Entertainment-and-Memes-Bot-/assets/71703674/e0868156-d5fd-4816-9bf6-7509ca13f78a)
+![image](https://github.com/Laksh-Devloper/Chintu---Discord-Entertainment-and-Memes-Bot-/assets/71703674/5e7885d1-452d-47bd-ad83-e17c7fec6e8b)
+
 
 
 **Features:**
